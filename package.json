@@ -1,0 +1,23 @@
+{
+  "name": "caas-data",
+  "version": "1.0.1",
+  "description": "Data Repository for localized and/or structured resources used in CAAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/eslint/bin/eslint.js --cache lib/** test/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agilitation/caas-data.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/agilitation/caas-data/issues"
+  },
+  "homepage": "https://github.com/agilitation/caas-data#readme",
+  "dependencies": {
+    "transflow": "^1.2.0"
+  }
+}

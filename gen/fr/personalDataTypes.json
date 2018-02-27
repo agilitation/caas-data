@@ -1,0 +1,812 @@
+[
+  {
+    "id": "civil_status",
+    "label": {
+      "options": {
+        "comment": "civil_status",
+        "default": "État civil"
+      },
+      "name": "[0].label"
+    },
+    "types": [
+      {
+        "id": "fullname",
+        "label": {
+          "options": {
+            "comment": "fullname",
+            "default": "Nom complet"
+          },
+          "name": "[0].types[0].label"
+        }
+      },
+      {
+        "id": "firstname",
+        "label": {
+          "options": {
+            "comment": "firstname",
+            "default": "Prénom"
+          },
+          "name": "[0].types[1].label"
+        }
+      },
+      {
+        "id": "lastname",
+        "label": {
+          "options": {
+            "comment": "lastname",
+            "default": "Patronyme"
+          },
+          "name": "[0].types[2].label"
+        }
+      },
+      {
+        "id": "pseudonym",
+        "label": {
+          "options": {
+            "comment": "pseudonym",
+            "default": "Pseudonyme"
+          },
+          "name": "[0].types[3].label"
+        }
+      },
+      {
+        "id": "title",
+        "label": {
+          "options": {
+            "comment": "title",
+            "default": "Titre ou civilité"
+          },
+          "name": "[0].types[4].label"
+        }
+      },
+      {
+        "id": "birthday",
+        "label": {
+          "options": {
+            "comment": "birthday",
+            "default": "Jour anniversaire"
+          },
+          "name": "[0].types[5].label"
+        }
+      },
+      {
+        "id": "birthdate",
+        "label": {
+          "options": {
+            "comment": "birthdate",
+            "default": "Date de naissance"
+          },
+          "name": "[0].types[6].label"
+        }
+      },
+      {
+        "id": "age",
+        "label": {
+          "options": {
+            "comment": "age",
+            "default": "Âge"
+          },
+          "name": "[0].types[7].label"
+        }
+      },
+      {
+        "id": "parents_name",
+        "label": {
+          "options": {
+            "comment": "parents_name",
+            "default": "Nom des parents"
+          },
+          "name": "[0].types[8].label"
+        }
+      },
+      {
+        "id": "nationality",
+        "label": {
+          "options": {
+            "comment": "nationality",
+            "default": "Nationalité"
+          },
+          "name": "[0].types[9].label"
+        }
+      },
+      {
+        "id": "country_of_birth",
+        "label": {
+          "options": {
+            "comment": "country_of_birth",
+            "default": "Pays de naissance"
+          },
+          "name": "[0].types[10].label"
+        }
+      },
+      {
+        "id": "place_of_birth",
+        "label": {
+          "options": {
+            "comment": "place_of_birth",
+            "default": "Lieu de naissance"
+          },
+          "name": "[0].types[11].label"
+        }
+      },
+      {
+        "id": "marital_status",
+        "label": {
+          "options": {
+            "comment": "marital_status",
+            "default": "Statut marital"
+          },
+          "name": "[0].types[12].label"
+        }
+      },
+      {
+        "id": "sex",
+        "label": {
+          "options": {
+            "comment": "sex",
+            "default": "Sexe"
+          },
+          "name": "[0].types[13].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mensurations",
+    "label": {
+      "options": {
+        "comment": "mensurations",
+        "default": "Mensurations"
+      },
+      "name": "[1].label"
+    },
+    "types": [
+      {
+        "id": "silhouette",
+        "label": {
+          "options": {
+            "comment": "silhouette",
+            "default": "Silhouette"
+          },
+          "name": "[1].types[0].label"
+        }
+      },
+      {
+        "id": "height",
+        "label": {
+          "options": {
+            "comment": "height",
+            "default": "Taille"
+          },
+          "name": "[1].types[1].label"
+        }
+      },
+      {
+        "id": "weight",
+        "label": {
+          "options": {
+            "comment": "weight",
+            "default": "Poids"
+          },
+          "name": "[1].types[2].label"
+        }
+      },
+      {
+        "id": "size",
+        "label": {
+          "options": {
+            "comment": "size",
+            "default": "Taille de vêtement"
+          },
+          "name": "[1].types[3].label"
+        }
+      },
+      {
+        "id": "footsize",
+        "label": {
+          "options": {
+            "comment": "footsize",
+            "default": "Pointure"
+          },
+          "name": "[1].types[4].label"
+        }
+      },
+      {
+        "id": "skin_color",
+        "label": {
+          "options": {
+            "comment": "skin_color",
+            "default": "Couleur de peau"
+          },
+          "name": "[1].types[5].label"
+        }
+      },
+      {
+        "id": "skin_type",
+        "label": {
+          "options": {
+            "comment": "skin_type",
+            "default": "Type de peau"
+          },
+          "name": "[1].types[6].label"
+        }
+      },
+      {
+        "id": "hair_type",
+        "label": {
+          "options": {
+            "comment": "hair_type",
+            "default": "Type de cheveux"
+          },
+          "name": "[1].types[7].label"
+        }
+      },
+      {
+        "id": "hair_color",
+        "label": {
+          "options": {
+            "comment": "hair_color",
+            "default": "Couleur de cheveux"
+          },
+          "name": "[1].types[8].label"
+        }
+      },
+      {
+        "id": "eyes",
+        "label": {
+          "options": {
+            "comment": "eyes",
+            "default": "Couleur yeux"
+          },
+          "name": "[1].types[9].label"
+        }
+      },
+      {
+        "id": "eye_correction",
+        "label": {
+          "options": {
+            "comment": "eye_correction",
+            "default": "Correction occulaire"
+          },
+          "name": "[1].types[10].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ID",
+    "label": {
+      "options": {
+        "comment": "ID",
+        "default": "Identifiants"
+      },
+      "name": "[2].label"
+    },
+    "types": [
+      {
+        "id": "social_security_id",
+        "label": {
+          "options": {
+            "comment": "social_security_id",
+            "default": "Numéro de sécurité sociale"
+          },
+          "name": "[2].types[0].label"
+        }
+      },
+      {
+        "id": "driver_licence_id",
+        "label": {
+          "options": {
+            "comment": "driver_licence_id",
+            "default": "Numéro de permis de conduire"
+          },
+          "name": "[2].types[1].label"
+        }
+      },
+      {
+        "id": "identity_number",
+        "label": {
+          "options": {
+            "comment": "identity_number",
+            "default": "Numéro d'identité"
+          },
+          "name": "[2].types[2].label"
+        }
+      },
+      {
+        "id": "passport_number",
+        "label": {
+          "options": {
+            "comment": "passport_number",
+            "default": "Numéro de passport"
+          },
+          "name": "[2].types[3].label"
+        }
+      },
+      {
+        "id": "student_number",
+        "label": {
+          "options": {
+            "comment": "student_number",
+            "default": "Numéro d'Identification National Etudiant (INE)"
+          },
+          "name": "[2].types[4].label"
+        }
+      },
+      {
+        "id": "car_registration_plate",
+        "label": {
+          "options": {
+            "comment": "car_registration_plate",
+            "default": "Numéro Plaque d'Imatriculation"
+          },
+          "name": "[2].types[5].label"
+        }
+      },
+      {
+        "id": "bank_account_number",
+        "label": {
+          "options": {
+            "comment": "bank_account_number",
+            "default": "Numéro de compte en banque"
+          },
+          "name": "[2].types[6].label"
+        }
+      },
+      {
+        "id": "other_id",
+        "label": {
+          "options": {
+            "comment": "other_id",
+            "default": "Autre identifiant"
+          },
+          "name": "[2].types[7].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "online_ID",
+    "label": {
+      "options": {
+        "comment": "online_ID",
+        "default": "Identifiants en ligne"
+      },
+      "name": "[3].label"
+    },
+    "types": [
+      {
+        "id": "google",
+        "label": {
+          "options": {
+            "comment": "google",
+            "default": "Google"
+          },
+          "name": "[3].types[0].label"
+        }
+      },
+      {
+        "id": "yahoo",
+        "label": {
+          "options": {
+            "comment": "yahoo",
+            "default": "Yahoo"
+          },
+          "name": "[3].types[1].label"
+        }
+      },
+      {
+        "id": "facebook",
+        "label": {
+          "options": {
+            "comment": "facebook",
+            "default": "Facebook"
+          },
+          "name": "[3].types[2].label"
+        }
+      },
+      {
+        "id": "linkedin",
+        "label": {
+          "options": {
+            "comment": "linkedin",
+            "default": "Linkedin"
+          },
+          "name": "[3].types[3].label"
+        }
+      },
+      {
+        "id": "other_platform_id",
+        "label": {
+          "options": {
+            "comment": "other_platform_id",
+            "default": "Autre identifiant de plateforme en ligne"
+          },
+          "name": "[3].types[4].label"
+        }
+      },
+      {
+        "id": "social_login_identifier",
+        "label": {
+          "options": {
+            "comment": "social_login_identifier",
+            "default": "Identifiant de réseau social"
+          },
+          "name": "[3].types[5].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "contact_information",
+    "label": {
+      "options": {
+        "comment": "contact_information",
+        "default": "Coordonnées"
+      },
+      "name": "[4].label"
+    },
+    "types": [
+      {
+        "id": "phone_number",
+        "label": {
+          "options": {
+            "comment": "phone_number",
+            "default": "Numéro de téléphone"
+          },
+          "name": "[4].types[0].label"
+        }
+      },
+      {
+        "id": "email",
+        "label": {
+          "options": {
+            "comment": "email",
+            "default": "Adresse email"
+          },
+          "name": "[4].types[1].label"
+        }
+      },
+      {
+        "id": "professional_email",
+        "label": {
+          "options": {
+            "comment": "professional_email",
+            "default": "Adresse email professionnelle"
+          },
+          "name": "[4].types[2].label"
+        }
+      },
+      {
+        "id": "mobile",
+        "label": {
+          "options": {
+            "comment": "mobile",
+            "default": "Numéro de téléphone portable"
+          },
+          "name": "[4].types[3].label"
+        }
+      },
+      {
+        "id": "fax",
+        "label": {
+          "options": {
+            "comment": "fax",
+            "default": "Numéro de fax"
+          },
+          "name": "[4].types[4].label"
+        }
+      },
+      {
+        "id": "street_address",
+        "label": {
+          "options": {
+            "comment": "street_address",
+            "default": "Adresse"
+          },
+          "name": "[4].types[5].label"
+        }
+      },
+      {
+        "id": "business_address",
+        "label": {
+          "options": {
+            "comment": "business_address",
+            "default": "Adresse Professionnelle"
+          },
+          "name": "[4].types[6].label"
+        }
+      },
+      {
+        "id": "city",
+        "label": {
+          "options": {
+            "comment": "city",
+            "default": "Ville"
+          },
+          "name": "[4].types[7].label"
+        }
+      },
+      {
+        "id": "postal_code",
+        "label": {
+          "options": {
+            "comment": "postal_code",
+            "default": "Code Postal"
+          },
+          "name": "[4].types[8].label"
+        }
+      },
+      {
+        "id": "province",
+        "label": {
+          "options": {
+            "comment": "province",
+            "default": "Région ou Province"
+          },
+          "name": "[4].types[9].label"
+        }
+      },
+      {
+        "id": "country",
+        "label": {
+          "options": {
+            "comment": "country",
+            "default": "Pays"
+          },
+          "name": "[4].types[10].label"
+        }
+      },
+      {
+        "id": "geoposition",
+        "label": {
+          "options": {
+            "comment": "geoposition",
+            "default": "Position (Lat/Lon)"
+          },
+          "name": "[4].types[11].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "usage_history",
+    "label": {
+      "options": {
+        "comment": "usage_history",
+        "default": "Historique d'usage"
+      },
+      "name": "[5].label"
+    },
+    "types": [
+      {
+        "id": "chat_log",
+        "label": {
+          "options": {
+            "comment": "chat_log",
+            "default": "Historique de conversation"
+          },
+          "name": "[5].types[0].label"
+        }
+      },
+      {
+        "id": "browsing_history",
+        "label": {
+          "options": {
+            "comment": "browsing_history",
+            "default": "Historique de navigation"
+          },
+          "name": "[5].types[1].label"
+        }
+      },
+      {
+        "id": "purchase_history",
+        "label": {
+          "options": {
+            "comment": "purchase_history",
+            "default": "Historique d'achats"
+          },
+          "name": "[5].types[2].label"
+        }
+      },
+      {
+        "id": "phone_call_log",
+        "label": {
+          "options": {
+            "comment": "phone_call_log",
+            "default": "Historique d'appel téléphonique"
+          },
+          "name": "[5].types[3].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "business",
+    "label": {
+      "options": {
+        "comment": "business",
+        "default": "Informations professionnelles"
+      },
+      "name": "[6].label"
+    },
+    "types": [
+      {
+        "id": "job_position",
+        "label": {
+          "options": {
+            "comment": "job_position",
+            "default": "Poste occupé dans l'entreprise"
+          },
+          "name": "[6].types[0].label"
+        }
+      },
+      {
+        "id": "company_name",
+        "label": {
+          "options": {
+            "comment": "company_name",
+            "default": "Nom de l'entreprise"
+          },
+          "name": "[6].types[1].label"
+        }
+      },
+      {
+        "id": "job_history",
+        "label": {
+          "options": {
+            "comment": "job_history",
+            "default": "Emplois précédents"
+          },
+          "name": "[6].types[2].label"
+        }
+      },
+      {
+        "id": "company_identification_number",
+        "label": {
+          "options": {
+            "comment": "company_identification_number",
+            "default": "Numéro d'identification de l'entreprise (SIRET)"
+          },
+          "name": "[6].types[3].label"
+        }
+      },
+      {
+        "id": "company_vat_number",
+        "label": {
+          "options": {
+            "comment": "company_vat_number",
+            "default": "Numéro de TVA de l'entreprise"
+          },
+          "name": "[6].types[4].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "interest",
+    "label": {
+      "options": {
+        "comment": "interest",
+        "default": "Centres d'intérêts"
+      },
+      "name": "[7].label"
+    },
+    "types": [
+      {
+        "id": "hobbies",
+        "label": {
+          "options": {
+            "comment": "hobbies",
+            "default": "Loisirs"
+          },
+          "name": "[7].types[0].label"
+        }
+      },
+      {
+        "id": "intelligence",
+        "label": {
+          "options": {
+            "comment": "intelligence",
+            "default": "Veille"
+          },
+          "name": "[7].types[1].label"
+        }
+      },
+      {
+        "id": "sports",
+        "label": {
+          "options": {
+            "comment": "sports",
+            "default": "Sport"
+          },
+          "name": "[7].types[2].label"
+        }
+      },
+      {
+        "id": "arts",
+        "label": {
+          "options": {
+            "comment": "arts",
+            "default": "Pratique artistique"
+          },
+          "name": "[7].types[3].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "technical_information",
+    "label": {
+      "options": {
+        "comment": "technical_information",
+        "default": "Informations Techniques"
+      },
+      "name": "[8].label"
+    },
+    "types": [
+      {
+        "id": "ip_address",
+        "label": {
+          "options": {
+            "comment": "ip_address",
+            "default": "Adresse IP"
+          },
+          "name": "[8].types[0].label"
+        }
+      },
+      {
+        "id": "web_browser",
+        "label": {
+          "options": {
+            "comment": "web_browser",
+            "default": "Navigateur"
+          },
+          "name": "[8].types[1].label"
+        }
+      },
+      {
+        "id": "operating_system",
+        "label": {
+          "options": {
+            "comment": "operating_system",
+            "default": "Système d'exploitation"
+          },
+          "name": "[8].types[2].label"
+        }
+      }
+    ]
+  },
+  {
+    "id": "image",
+    "label": {
+      "options": {
+        "comment": "image",
+        "default": "Image"
+      },
+      "name": "[9].label"
+    },
+    "types": [
+      {
+        "id": "photo",
+        "label": {
+          "options": {
+            "comment": "photo",
+            "default": "Photo"
+          },
+          "name": "[9].types[0].label"
+        }
+      },
+      {
+        "id": "video",
+        "label": {
+          "options": {
+            "comment": "video",
+            "default": "Vidéo"
+          },
+          "name": "[9].types[1].label"
+        }
+      }
+    ]
+  }
+]
