@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgid "[0].value"
+msgstr "Clauses contractuelles de protection types"
+
+msgid "[1].value"
+msgstr "Clauses contractuelles de protection spécifiques"
+
+msgid "[2].value"
+msgstr "Règles d’entreprises contraignantes (ou Binding Corporate Rules : BCR)"
+
+msgid "[3].value"
+msgstr "Un code de conduite approuvé"
+
+msgid "[4].value"
+msgstr "Un mécanisme de certification approuvé"
+
+msgid "[5].value"
+msgstr "D’autres mesures de protection"
+
+msgid "[6].value"
+msgstr "Aucune mesure n’a été prise"
