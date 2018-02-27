@@ -2,7 +2,7 @@
   "name": "caas-data",
   "version": "1.0.1",
   "description": "Data Repository for localized and/or structured resources used in CAAS",
-  "main": "index.js",
+  "main": "data/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "./node_modules/eslint/bin/eslint.js --cache lib/** test/**"
