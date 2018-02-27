@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/agilitation/caas-data#readme",
   "dependencies": {
-    "transflow": "^1.3.0"
+    "transflow": "^1.3.2"
   }
 }

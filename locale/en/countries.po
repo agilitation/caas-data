@@ -1,0 +1,113 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgid "[0].name"
+msgstr "Pays de l'Union Européenne"
+
+msgid "[0].countries[0].label"
+msgstr "Allemagne"
+
+msgid "[0].countries[1].label"
+msgstr "Autriche"
+
+msgid "[0].countries[2].label"
+msgstr "Belgique"
+
+msgid "[0].countries[3].label"
+msgstr "Bulgarie"
+
+msgid "[0].countries[4].label"
+msgstr "Chypre"
+
+msgid "[0].countries[5].label"
+msgstr "Croatie"
+
+msgid "[0].countries[6].label"
+msgstr "Danemark"
+
+msgid "[0].countries[7].label"
+msgstr "Espagne"
+
+msgid "[0].countries[8].label"
+msgstr "Estonie"
+
+msgid "[0].countries[9].label"
+msgstr "Finlande"
+
+msgid "[0].countries[10].label"
+msgstr "France"
+
+msgid "[0].countries[11].label"
+msgstr "Grèce"
+
+msgid "[0].countries[12].label"
+msgstr "Hongrie"
+
+msgid "[0].countries[13].label"
+msgstr "Irlande"
+
+msgid "[0].countries[14].label"
+msgstr "Italie"
+
+msgid "[0].countries[15].label"
+msgstr "Lettonie"
+
+msgid "[0].countries[16].label"
+msgstr "Lituanie"
+
+msgid "[0].countries[17].label"
+msgstr "Luxembourg"
+
+msgid "[0].countries[18].label"
+msgstr "Malte"
+
+msgid "[0].countries[19].label"
+msgstr "Pays-Bas"
+
+msgid "[0].countries[20].label"
+msgstr "Pologne"
+
+msgid "[0].countries[21].label"
+msgstr "Portugal"
+
+msgid "[0].countries[22].label"
+msgstr "République tchèque"
+
+msgid "[0].countries[23].label"
+msgstr "Roumanie"
+
+msgid "[0].countries[24].label"
+msgstr "Royaume-Uni"
+
+msgid "[0].countries[25].label"
+msgstr "Slovaquie"
+
+msgid "[0].countries[26].label"
+msgstr "Slovénie"
+
+msgid "[0].countries[27].label"
+msgstr "Suède"
+
+msgid "[1].name"
+msgstr "Pays bénéficiant d'une décision d'adéquation"
+
+msgid "[1].countries[0].label"
+msgstr "Argentine"
+
+msgid "[1].countries[1].label"
+msgstr "Canada"
+
+msgid "[1].countries[2].label"
+msgstr "Guernesey"
+
+msgid "[1].countries[3].label"
+msgstr "Île de Man"
+
+msgid "[1].countries[4].label"
+msgstr "Jersey"
+
+msgid "[1].countries[5].label"
+msgstr "Suisse"
+
+msgid "[1].countries[6].label"
+msgstr "États Unis"
