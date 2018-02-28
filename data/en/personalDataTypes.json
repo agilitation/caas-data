@@ -1,1 +1,338 @@
-[{"id":"civil_status","label":"Civil status","types":[{"id":"fullname","label":"Full name"},{"id":"firstname","label":"First name"},{"id":"lastname","label":"Last name"},{"id":"pseudonym","label":"Nickname"},{"id":"title","label":"Title"},{"id":"birthday","label":"Birthday"},{"id":"birthdate","label":"Birth date"},{"id":"age","label":"Age"},{"id":"parents_name","label":"Parents name"},{"id":"nationality","label":"Nationality"},{"id":"country_of_birth","label":"Country of birth"},{"id":"place_of_birth","label":"Place of birth"},{"id":"marital_status","label":"Marital status"},{"id":"sex","label":"Gender"}]},{"id":"mensurations","label":"Mensurations","types":[{"id":"silhouette","label":"Silhouette"},{"id":"height","label":"Height"},{"id":"weight","label":"Weight"},{"id":"size","label":"Size"},{"id":"footsize","label":"Footsize"},{"id":"skin_color","label":"Skin tone"},{"id":"skin_type","label":"Skin type"},{"id":"hair_type","label":"Hair type"},{"id":"hair_color","label":"Hair color"},{"id":"eyes","label":"Eyes color"},{"id":"eye_correction","label":"Eye correction"}]},{"id":"ID","label":"ID","types":[{"id":"social_security_id","label":"Social security ID"},{"id":"driver_licence_id","label":"Driver's licence ID"},{"id":"identity_number","label":"Identity number"},{"id":"passport_number","label":"Passport number"},{"id":"student_number","label":"Student number"},{"id":"car_registration_plate","label":"Car registration plate"},{"id":"bank_account_number","label":"Bank account number"},{"id":"other_id","label":"Other ID"}]},{"id":"online_ID","label":"Online ID","types":[{"id":"google","label":"Google"},{"id":"yahoo","label":"Yahoo"},{"id":"facebook","label":"Facebook"},{"id":"linkedin","label":"Linkedin"},{"id":"other_platform_id","label":"Other online platform ID"},{"id":"social_login_identifier","label":"Social Login"}]},{"id":"contact_information","label":"Contact information","types":[{"id":"phone_number","label":"Phone number"},{"id":"email","label":"Email address"},{"id":"professional_email","label":"Professional email address"},{"id":"mobile","label":"Mobile"},{"id":"fax","label":"Fax"},{"id":"street_address","label":"Street address"},{"id":"business_address","label":"Business address"},{"id":"city","label":"City"},{"id":"postal_code","label":"Postcode"},{"id":"province","label":"Region"},{"id":"country","label":"Country"},{"id":"geoposition","label":"Geolocation (Lat/Lon)"}]},{"id":"usage_history","label":"Usage history","types":[{"id":"chat_log","label":"Chat log"},{"id":"browsing_history","label":"Browsing history"},{"id":"purchase_history","label":"Purchase history"},{"id":"phone_call_log","label":"Phone call log"}]},{"id":"business","label":"Professional information","types":[{"id":"job_position","label":"Job position"},{"id":"company_name","label":"Company name"},{"id":"job_history","label":"Job history"},{"id":"company_identification_number","label":"Company Identification Number"},{"id":"company_vat_number","label":"VAT Number"}]},{"id":"interest","label":"Interests","types":[{"id":"hobbies","label":"Hobbies"},{"id":"intelligence","label":"Intelligence"},{"id":"sports","label":"Sport"},{"id":"arts","label":"Arts"}]},{"id":"technical_information","label":"Technical informations","types":[{"id":"ip_address","label":"IP Address"},{"id":"web_browser","label":"Web browser"},{"id":"operating_system","label":"Operating System"}]},{"id":"image","label":"Image","types":[{"id":"photo","label":"Picture"},{"id":"video","label":"Video"}]}]
+[
+  {
+    "id": "civil_status",
+    "label": "Civil status",
+    "types": [
+      {
+        "id": "fullname",
+        "label": "Full name"
+      },
+      {
+        "id": "firstname",
+        "label": "First name"
+      },
+      {
+        "id": "lastname",
+        "label": "Last name"
+      },
+      {
+        "id": "pseudonym",
+        "label": "Nickname"
+      },
+      {
+        "id": "title",
+        "label": "Title"
+      },
+      {
+        "id": "birthday",
+        "label": "Birthday"
+      },
+      {
+        "id": "birthdate",
+        "label": "Birth date"
+      },
+      {
+        "id": "age",
+        "label": "Age"
+      },
+      {
+        "id": "parents_name",
+        "label": "Parents name"
+      },
+      {
+        "id": "nationality",
+        "label": "Nationality"
+      },
+      {
+        "id": "country_of_birth",
+        "label": "Country of birth"
+      },
+      {
+        "id": "place_of_birth",
+        "label": "Place of birth"
+      },
+      {
+        "id": "marital_status",
+        "label": "Marital status"
+      },
+      {
+        "id": "sex",
+        "label": "Gender"
+      }
+    ]
+  },
+  {
+    "id": "mensurations",
+    "label": "Mensurations",
+    "types": [
+      {
+        "id": "silhouette",
+        "label": "Silhouette"
+      },
+      {
+        "id": "height",
+        "label": "Height"
+      },
+      {
+        "id": "weight",
+        "label": "Weight"
+      },
+      {
+        "id": "size",
+        "label": "Size"
+      },
+      {
+        "id": "footsize",
+        "label": "Footsize"
+      },
+      {
+        "id": "skin_color",
+        "label": "Skin tone"
+      },
+      {
+        "id": "skin_type",
+        "label": "Skin type"
+      },
+      {
+        "id": "hair_type",
+        "label": "Hair type"
+      },
+      {
+        "id": "hair_color",
+        "label": "Hair color"
+      },
+      {
+        "id": "eyes",
+        "label": "Eyes color"
+      },
+      {
+        "id": "eye_correction",
+        "label": "Eye correction"
+      }
+    ]
+  },
+  {
+    "id": "ID",
+    "label": "ID",
+    "types": [
+      {
+        "id": "social_security_id",
+        "label": "Social security ID"
+      },
+      {
+        "id": "driver_licence_id",
+        "label": "Driver's licence ID"
+      },
+      {
+        "id": "identity_number",
+        "label": "Identity number"
+      },
+      {
+        "id": "passport_number",
+        "label": "Passport number"
+      },
+      {
+        "id": "student_number",
+        "label": "Student number"
+      },
+      {
+        "id": "car_registration_plate",
+        "label": "Car registration plate"
+      },
+      {
+        "id": "bank_account_number",
+        "label": "Bank account number"
+      },
+      {
+        "id": "other_id",
+        "label": "Other ID"
+      }
+    ]
+  },
+  {
+    "id": "online_ID",
+    "label": "Online ID",
+    "types": [
+      {
+        "id": "google",
+        "label": "Google"
+      },
+      {
+        "id": "yahoo",
+        "label": "Yahoo"
+      },
+      {
+        "id": "facebook",
+        "label": "Facebook"
+      },
+      {
+        "id": "linkedin",
+        "label": "Linkedin"
+      },
+      {
+        "id": "other_platform_id",
+        "label": "Other online platform ID"
+      },
+      {
+        "id": "social_login_identifier",
+        "label": "Social Login"
+      }
+    ]
+  },
+  {
+    "id": "contact_information",
+    "label": "Contact information",
+    "types": [
+      {
+        "id": "phone_number",
+        "label": "Phone number"
+      },
+      {
+        "id": "email",
+        "label": "Email address"
+      },
+      {
+        "id": "professional_email",
+        "label": "Professional email address"
+      },
+      {
+        "id": "mobile",
+        "label": "Mobile"
+      },
+      {
+        "id": "fax",
+        "label": "Fax"
+      },
+      {
+        "id": "street_address",
+        "label": "Street address"
+      },
+      {
+        "id": "business_address",
+        "label": "Business address"
+      },
+      {
+        "id": "city",
+        "label": "City"
+      },
+      {
+        "id": "postal_code",
+        "label": "Postcode"
+      },
+      {
+        "id": "province",
+        "label": "Region"
+      },
+      {
+        "id": "country",
+        "label": "Country"
+      },
+      {
+        "id": "geoposition",
+        "label": "Geolocation (Lat/Lon)"
+      }
+    ]
+  },
+  {
+    "id": "usage_history",
+    "label": "Usage history",
+    "types": [
+      {
+        "id": "chat_log",
+        "label": "Chat log"
+      },
+      {
+        "id": "browsing_history",
+        "label": "Browsing history"
+      },
+      {
+        "id": "purchase_history",
+        "label": "Purchase history"
+      },
+      {
+        "id": "phone_call_log",
+        "label": "Phone call log"
+      }
+    ]
+  },
+  {
+    "id": "business",
+    "label": "Professional information",
+    "types": [
+      {
+        "id": "job_position",
+        "label": "Job position"
+      },
+      {
+        "id": "company_name",
+        "label": "Company name"
+      },
+      {
+        "id": "job_history",
+        "label": "Job history"
+      },
+      {
+        "id": "company_identification_number",
+        "label": "Company Identification Number"
+      },
+      {
+        "id": "company_vat_number",
+        "label": "VAT Number"
+      }
+    ]
+  },
+  {
+    "id": "interest",
+    "label": "Interests",
+    "types": [
+      {
+        "id": "hobbies",
+        "label": "Hobbies"
+      },
+      {
+        "id": "intelligence",
+        "label": "Intelligence"
+      },
+      {
+        "id": "sports",
+        "label": "Sport"
+      },
+      {
+        "id": "arts",
+        "label": "Arts"
+      }
+    ]
+  },
+  {
+    "id": "technical_information",
+    "label": "Technical informations",
+    "types": [
+      {
+        "id": "ip_address",
+        "label": "IP Address"
+      },
+      {
+        "id": "web_browser",
+        "label": "Web browser"
+      },
+      {
+        "id": "operating_system",
+        "label": "Operating System"
+      }
+    ]
+  },
+  {
+    "id": "image",
+    "label": "Image",
+    "types": [
+      {
+        "id": "photo",
+        "label": "Picture"
+      },
+      {
+        "id": "video",
+        "label": "Video"
+      }
+    ]
+  }
+]
