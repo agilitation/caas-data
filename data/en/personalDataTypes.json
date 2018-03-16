@@ -13,11 +13,11 @@
       },
       {
         "id": "lastname",
-        "label": "Last name"
+        "label": "Surname"
       },
       {
         "id": "pseudonym",
-        "label": "Nickname"
+        "label": "Pseudonym"
       },
       {
         "id": "title",
@@ -29,7 +29,7 @@
       },
       {
         "id": "birthdate",
-        "label": "Birth date"
+        "label": "Date of birth"
       },
       {
         "id": "age",
@@ -37,7 +37,7 @@
       },
       {
         "id": "parents_name",
-        "label": "Parents name"
+        "label": "Parents' names"
       },
       {
         "id": "nationality",
@@ -57,13 +57,13 @@
       },
       {
         "id": "sex",
-        "label": "Gender"
+        "label": "Sex"
       }
     ]
   },
   {
     "id": "mensurations",
-    "label": "Mensurations",
+    "label": "Measurements",
     "types": [
       {
         "id": "silhouette",
@@ -79,15 +79,15 @@
       },
       {
         "id": "size",
-        "label": "Size"
+        "label": "Clothing size"
       },
       {
         "id": "footsize",
-        "label": "Footsize"
+        "label": "Shoe size"
       },
       {
         "id": "skin_color",
-        "label": "Skin tone"
+        "label": "Skin color"
       },
       {
         "id": "skin_type",
@@ -103,7 +103,7 @@
       },
       {
         "id": "eyes",
-        "label": "Eyes color"
+        "label": "Eye color"
       },
       {
         "id": "eye_correction",
@@ -121,11 +121,11 @@
       },
       {
         "id": "driver_licence_id",
-        "label": "Driver's licence ID"
+        "label": "Driver's license"
       },
       {
         "id": "identity_number",
-        "label": "Identity number"
+        "label": "ID number"
       },
       {
         "id": "passport_number",
@@ -167,15 +167,15 @@
       },
       {
         "id": "linkedin",
-        "label": "Linkedin"
+        "label": "LinkedIn"
       },
       {
         "id": "other_platform_id",
-        "label": "Other online platform ID"
+        "label": "Other platform ID"
       },
       {
         "id": "social_login_identifier",
-        "label": "Social Login"
+        "label": "Social login identifier"
       }
     ]
   },
@@ -197,31 +197,31 @@
       },
       {
         "id": "mobile",
-        "label": "Mobile"
+        "label": "Cell phone number"
       },
       {
         "id": "fax",
-        "label": "Fax"
+        "label": "Fax number"
       },
       {
         "id": "street_address",
-        "label": "Street address"
+        "label": "Address"
       },
       {
         "id": "business_address",
-        "label": "Business address"
+        "label": "Professional address"
       },
       {
         "id": "city",
-        "label": "City"
+        "label": "Town or city"
       },
       {
         "id": "postal_code",
-        "label": "Postcode"
+        "label": "ZIP code"
       },
       {
         "id": "province",
-        "label": "Region"
+        "label": "Province"
       },
       {
         "id": "country",
@@ -229,7 +229,7 @@
       },
       {
         "id": "geoposition",
-        "label": "Geolocation (Lat/Lon)"
+        "label": "Position (Lat/Lon)"
       }
     ]
   },
@@ -261,7 +261,7 @@
     "types": [
       {
         "id": "job_position",
-        "label": "Job position"
+        "label": "Position"
       },
       {
         "id": "company_name",
@@ -273,11 +273,11 @@
       },
       {
         "id": "company_identification_number",
-        "label": "Company Identification Number"
+        "label": "Company identification number"
       },
       {
         "id": "company_vat_number",
-        "label": "VAT Number"
+        "label": "Company VAT number"
       }
     ]
   },
@@ -295,7 +295,7 @@
       },
       {
         "id": "sports",
-        "label": "Sport"
+        "label": "Sports"
       },
       {
         "id": "arts",
@@ -305,11 +305,11 @@
   },
   {
     "id": "technical_information",
-    "label": "Technical informations",
+    "label": "Technical information",
     "types": [
       {
         "id": "ip_address",
-        "label": "IP Address"
+        "label": "IP address"
       },
       {
         "id": "web_browser",
@@ -317,7 +317,7 @@
       },
       {
         "id": "operating_system",
-        "label": "Operating System"
+        "label": "Operating system"
       }
     ]
   },
@@ -327,7 +327,7 @@
     "types": [
       {
         "id": "photo",
-        "label": "Picture"
+        "label": "Photo"
       },
       {
         "id": "video",

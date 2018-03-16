@@ -1,46 +1,46 @@
 [
   {
-    "name": "Pays de l'Union Européenne",
+    "name": "Countries of the European Union",
     "countries": [
       {
         "iso": "DEU",
-        "label": "Allemagne"
+        "label": "Germany"
       },
       {
         "iso": "AUT",
-        "label": "Autriche"
+        "label": "Austria"
       },
       {
         "iso": "BEL",
-        "label": "Belgique"
+        "label": "Belgium"
       },
       {
         "iso": "BGR",
-        "label": "Bulgarie"
+        "label": "Bulgaria"
       },
       {
         "iso": "CYP",
-        "label": "Chypre"
+        "label": "Cyprus"
       },
       {
         "iso": "HRV",
-        "label": "Croatie"
+        "label": "Croatia"
       },
       {
         "iso": "DNK",
-        "label": "Danemark"
+        "label": "Denmark"
       },
       {
         "iso": "ESP",
-        "label": "Espagne"
+        "label": "Spain"
       },
       {
         "iso": "EST",
-        "label": "Estonie"
+        "label": "Estonia"
       },
       {
         "iso": "FIN",
-        "label": "Finlande"
+        "label": "Finland"
       },
       {
         "iso": "FRA",
@@ -48,27 +48,27 @@
       },
       {
         "iso": "GRC",
-        "label": "Grèce"
+        "label": "Greece"
       },
       {
         "iso": "HUN",
-        "label": "Hongrie"
+        "label": "Hungary"
       },
       {
         "iso": "IRL",
-        "label": "Irlande"
+        "label": "Ireland"
       },
       {
         "iso": "ITA",
-        "label": "Italie"
+        "label": "Italy"
       },
       {
         "iso": "LVA",
-        "label": "Lettonie"
+        "label": "Latvia"
       },
       {
         "iso": "LTU",
-        "label": "Lituanie"
+        "label": "Lithuania"
       },
       {
         "iso": "LUX",
@@ -76,15 +76,15 @@
       },
       {
         "iso": "MLT",
-        "label": "Malte"
+        "label": "Malta"
       },
       {
         "iso": "NLD",
-        "label": "Pays-Bas"
+        "label": "Netherlands"
       },
       {
         "iso": "POL",
-        "label": "Pologne"
+        "label": "Poland"
       },
       {
         "iso": "PRT",
@@ -92,36 +92,36 @@
       },
       {
         "iso": "CZE",
-        "label": "République tchèque"
+        "label": "Czech Republic"
       },
       {
         "iso": "ROU",
-        "label": "Roumanie"
+        "label": "Romania"
       },
       {
         "iso": "GBR",
-        "label": "Royaume-Uni"
+        "label": "United Kingdom"
       },
       {
         "iso": "SVK",
-        "label": "Slovaquie"
+        "label": "Slovakia"
       },
       {
         "iso": "SVN",
-        "label": "Slovénie"
+        "label": "Slovenia"
       },
       {
         "iso": "SWE",
-        "label": "Suède"
+        "label": "Sweden"
       }
     ]
   },
   {
-    "name": "Pays bénéficiant d'une décision d'adéquation",
+    "name": "Countries with adequacy decision",
     "countries": [
       {
         "iso": "ARG",
-        "label": "Argentine"
+        "label": "Argentina"
       },
       {
         "iso": "CAN",
@@ -129,11 +129,11 @@
       },
       {
         "iso": "GGY",
-        "label": "Guernesey"
+        "label": "Guernsey"
       },
       {
         "iso": "IMN",
-        "label": "Île de Man"
+        "label": "Isle of Man"
       },
       {
         "iso": "JEY",
@@ -141,11 +141,11 @@
       },
       {
         "iso": "CHE",
-        "label": "Suisse"
+        "label": "Switzerland"
       },
       {
         "iso": "USA",
-        "label": "États Unis"
+        "label": "United States of America"
       }
     ]
   }

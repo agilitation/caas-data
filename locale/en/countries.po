@@ -2,112 +2,112 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgid "[0].name"
-msgstr "Pays de l'Union Européenne"
+msgstr "Countries of the European Union"
 
 msgid "[0].countries[0].label"
-msgstr "Allemagne"
+msgstr "Germany"
 
 msgid "[0].countries[1].label"
-msgstr "Autriche"
+msgstr "Austria"
 
 msgid "[0].countries[2].label"
-msgstr "Belgique"
+msgstr "Belgium"
 
 msgid "[0].countries[3].label"
-msgstr "Bulgarie"
+msgstr "Bulgaria"
 
 msgid "[0].countries[4].label"
-msgstr "Chypre"
+msgstr "Cyprus"
 
 msgid "[0].countries[5].label"
-msgstr "Croatie"
+msgstr "Croatia"
 
 msgid "[0].countries[6].label"
-msgstr "Danemark"
+msgstr "Denmark"
 
 msgid "[0].countries[7].label"
-msgstr "Espagne"
+msgstr "Spain"
 
 msgid "[0].countries[8].label"
-msgstr "Estonie"
+msgstr "Estonia"
 
 msgid "[0].countries[9].label"
-msgstr "Finlande"
+msgstr "Finland"
 
 msgid "[0].countries[10].label"
 msgstr "France"
 
 msgid "[0].countries[11].label"
-msgstr "Grèce"
+msgstr "Greece"
 
 msgid "[0].countries[12].label"
-msgstr "Hongrie"
+msgstr "Hungary"
 
 msgid "[0].countries[13].label"
-msgstr "Irlande"
+msgstr "Ireland"
 
 msgid "[0].countries[14].label"
-msgstr "Italie"
+msgstr "Italy"
 
 msgid "[0].countries[15].label"
-msgstr "Lettonie"
+msgstr "Latvia"
 
 msgid "[0].countries[16].label"
-msgstr "Lituanie"
+msgstr "Lithuania"
 
 msgid "[0].countries[17].label"
 msgstr "Luxembourg"
 
 msgid "[0].countries[18].label"
-msgstr "Malte"
+msgstr "Malta"
 
 msgid "[0].countries[19].label"
-msgstr "Pays-Bas"
+msgstr "Netherlands"
 
 msgid "[0].countries[20].label"
-msgstr "Pologne"
+msgstr "Poland"
 
 msgid "[0].countries[21].label"
 msgstr "Portugal"
 
 msgid "[0].countries[22].label"
-msgstr "République tchèque"
+msgstr "Czech Republic"
 
 msgid "[0].countries[23].label"
-msgstr "Roumanie"
+msgstr "Romania"
 
 msgid "[0].countries[24].label"
-msgstr "Royaume-Uni"
+msgstr "United Kingdom"
 
 msgid "[0].countries[25].label"
-msgstr "Slovaquie"
+msgstr "Slovakia"
 
 msgid "[0].countries[26].label"
-msgstr "Slovénie"
+msgstr "Slovenia"
 
 msgid "[0].countries[27].label"
-msgstr "Suède"
+msgstr "Sweden"
 
 msgid "[1].name"
-msgstr "Pays bénéficiant d'une décision d'adéquation"
+msgstr "Countries with adequacy decision"
 
 msgid "[1].countries[0].label"
-msgstr "Argentine"
+msgstr "Argentina"
 
 msgid "[1].countries[1].label"
 msgstr "Canada"
 
 msgid "[1].countries[2].label"
-msgstr "Guernesey"
+msgstr "Guernsey"
 
 msgid "[1].countries[3].label"
-msgstr "Île de Man"
+msgstr "Isle of Man"
 
 msgid "[1].countries[4].label"
 msgstr "Jersey"
 
 msgid "[1].countries[5].label"
-msgstr "Suisse"
+msgstr "Switzerland"
 
 msgid "[1].countries[6].label"
-msgstr "États Unis"
+msgstr "United States of America"
